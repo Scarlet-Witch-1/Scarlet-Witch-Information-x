@@ -1,0 +1,33 @@
+<!DOCTYPE html> 
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+   
+
+
+      <div class="header">
+        <h1 class="The-Scarlet-Witch">The Scarlet Witch</h1>
+    </div>
+   
+    
+    <a href="I-Am-Beautiful.html"> click to see my beauty </a>
+    <br>
+    <br>
+    <a href="I-Am-Powerful.html"> click to see my power </a>
+    <br>
+    <br>
+    <a href="I-Am-Unpredictable.html"> click to see how  unpredictable I am </a>
+      
+
+<br>
+    <br>
+    <img src="Screenshot-2025-04-01-at-4.58.12---pm.png" alt="Image description" />
+    <img src="Screenshot-2025-04-30-at-10.45.14---pm.png" alt="Image description" />
+    <img src="image-copy.png" alt="Image description" />
+ 
+
+
+  </body>
+</html>
