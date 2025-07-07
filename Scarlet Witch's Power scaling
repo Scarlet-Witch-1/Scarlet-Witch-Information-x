@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Scarlet Witch | Power Scaling</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="trait-card">
+      <h4 class="power-scaling-title">Power Scaling: Chaos Unleashed</h4>
+      <ul>
+        <li>Scarlet Witch is a being of <strong>Primordial Chaos</strong>, wielding magic that rewrites reality itself. She has defeated cosmic beings, altered timelines, and undone existence with a whisper — “No more mutants.”</li>
+        <li>Her feats include overpowering the Phoenix Force, destroying the Darkhold across universes, and being labeled a Nexus Being — a constant across realities. Her power surpasses even Sorcerer Supreme levels.</li>
+        <li>From humble beginnings as a Sokovian experiment subject to one of the multiverse’s most formidable entities, Wanda’s growth is exponential and often uncontrollable, embodying chaos in its purest form.</li>
+        <br>
+        <img src="https://upload.wikimedia.org/wikipedia/en/8/88/Scarlet_Witch_MCU_character_poster.jpg" alt="Scarlet Witch MCU" />
+        <br><br>
+        <a href="index.html">Back to Home</a>
+      </ul>
+    </div>
+  </body>
+</html>
