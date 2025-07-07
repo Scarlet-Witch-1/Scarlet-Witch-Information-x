@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css"> 
+  </head>
+  <body>
+    <div class="header">
+      <div class="trait-card">
+      <h2 class="I-am-powerful">I am powerful</h2>
+      <ul>
+        <li>I am the Scarlet Witch; I am Chaos incarnate. 
+          My magic is the first building block of everything. Space, time, even you. It isn’t conjured; it is the cosmic law. I am deeper than reality could ever be, I am older than time. I am more infinite than the multiverse itself could ever be. 
+
+          I don’t simply bend to the rules, I rewrite them. 
+          I can collapse timelines with a thought! And in one simple whisper, I can destroy dimensions. When I dream, worlds are created. When I scream, gods fall to my knees, 
+
+          Nobody controls me; no force controls me. Not even fate, not even death, and not even prophecy.
+
+          I am what Sorcerers fear, and what Celestials observe. Reality obeys me. I am beyond everything. Beyond magic, science, comprehension.
+
+
+          I hear you speak of power. 
+          I am power. 
+          Power bows down to me… 
+          
+          Oh, and not to mention. I weild possiblities, and probabilities. When something isn't going my way, I can simply change that. If im losing a fight, I can simply change it. 
+        </li>
+      </ul>
+      <br>
+        <img src="Screenshot-2025-04-30-at-10.48.15---pm.png" alt="Image description" />
+        <img src="tumblr_b15c425fe52f2f4dccb6d2edd9415fb0_2fbad849_1280.jpg" alt="Image description" />
+        <img src="Screenshot-2025-04-30-at-10.51.13---pm.png" alt="Image description" />
+      <br>
+      <a href="index.html"> back to home </a>
+    </div>
+    </div>
+  </body>
+</html>
