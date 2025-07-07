@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Traits Page</title>
+    <link rel="stylesheet" href="style.css"> 
+  </head>
+  <body>
+
+    <div class="traits-container">
+      <div class="trait-card">
+        <h3 class="I-am-beautiful">I am Beautiful</h3>
+        <ul>
+          <li>
+            I am beautiful, I have unique features like bright green eyes, and long curly brown hair. Aswell as a diamond-shaped head, giving me that unique, aesthetic model-looking vibes. When I am transformed, my hair has a strong galaxy affect flowing at the bottom. Like strands of the cosmos are woven into each curl, absorbing light with every movement. I also wear a stylish, form-fitting outfit that blend in with my power, but adds elegance. My outfit has a deep-crimson and black toned lace, with arcane patterns. Reflecting both my strength and grace. My fabrics as well have a galaxy affect, faintly glimmers, as if sparkles and stars were sewn into every thread. I don’t just look like I belong on a runway — I look like I belong on a throne.
+          </li>
+        </ul>
+        
+        <br>
+        <img src="Screenshot-2025-04-30-at-10.43.50---pm.png" alt="Image description" />
+       
+        <img src="Screenshot-2025-04-30-at-10.48.23---pm.png" alt="Image description" />
+        <img src="Screenshot-2025-04-30-at-10.48.35---pm.png" alt="Image description" />
+        <br>
+        <a href="index.html"> back to home </a>
+      </div> 
+    </div> 
+
+  </body>
+</html>
